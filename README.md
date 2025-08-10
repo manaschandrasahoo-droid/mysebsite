@@ -1,0 +1,2 @@
+# mysebsite
+my static website
